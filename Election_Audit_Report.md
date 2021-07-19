@@ -2,7 +2,10 @@
 
 ## Overview of Election Audit
 ### Purpose
-Explain the purpose of this election audit analysis
+I assisted Seth and Tom with submiting the election audit results to the election commission. However, the election commission has requested some additional data to complete the audit. The commission has requested the following data:
+- The voter turnout for each county.
+- The percentage of votes from each county out of the total count.
+- The county with the highest turnout.
 
 ## Election-Audit Results
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
