@@ -23,4 +23,9 @@ Jefferson: 10.5% (38,855), Denver: 82.8% (306,055), Arapahoe: 6.7% (24,801)
 
 
 ## Results
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+This script can be used to automate future election results by making some minor changes. Below, please find two examples of how the script can be modified to be used for other elections: 
+
+1) Depending on the type of election, instead of referencing counties, we could pull in data for cities or even states for that matter.
+2) Another example would be to change the script and where it's pulling the data from, as different elections will store the data in different files. 
+
+In conclusion, utilizing Python to process the election data is more efficient and can be used to automate future elections.
