@@ -16,7 +16,6 @@ Using a bulleted list, address the following election outcomes. Use images or ex
 - Breakdown of the number of votes and the percentage of total votes for each county in the precinct:
 <img width="180" alt="Breakdown of County Votes" src="https://user-images.githubusercontent.com/85654649/126088047-d4ecd6bb-6f5a-4f00-adc4-84220bfb29e7.png">
 - County with the largest number of votes: Denver with 82.8% (306,055)
-
 - Breakdown of the number of votes and the percentage of the total votes each candidate received:
 <img width="265" alt="Candidate Breakdown" src="https://user-images.githubusercontent.com/85654649/126088154-5d62289b-b3ac-4ef0-b5a1-d89943eb8c1a.png">
 - Candidate who won the election: Diana DeGette
