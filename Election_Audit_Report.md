@@ -7,6 +7,8 @@ I assisted Seth and Tom with submiting the election audit results to the electio
 - The percentage of votes from each county out of the total count.
 - The county with the highest turnout.
 
+The purpoose of this audit analysis is to pull the additional data requested by the commission.
+
 ## Election-Audit Results
 Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
