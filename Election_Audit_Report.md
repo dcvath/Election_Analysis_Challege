@@ -1,6 +1,6 @@
 # Election Audit Report
 
-## Overview of Electin Audit
+## Overview of Election Audit
 ### Purpose
 Explain the purpose of this election audit analysis
 
